@@ -205,7 +205,7 @@
       "published": "portfolio/portfolio.pdf",
       "online": "portfolio/index.html",
       "pages": 30,
-      "sha256": "5bb7138ea02f53a731e2513aa590c9bb5331b38692487e3b8b0c4f67a31e3910"
+      "sha256": "bbeb801ae398603161a5ae57b2b9d1ef788adbd4d2a53f5beebe85a903c6a527"
     },
     {
       "source": "幻想を遊べる形へ_特待版.pdf",
@@ -293,7 +293,7 @@
       "source_page": 11,
       "printed_page": "p.11",
       "published": "portfolio/pages/page-11.jpg",
-      "sha256": "eea2f82289c6d88a62745cedc20e5fcfa65e991245f112ada38844e6b14e972e"
+      "sha256": "77db309d1bfa78fcfba669656b75f06cd37df76e412acc79d5d14d8f8c5189f6"
     },
     {
       "source": "幻想を遊べる形へ_特待版.pdf",
@@ -325,7 +325,7 @@
       "source_page": 15,
       "printed_page": "p.15",
       "published": "portfolio/pages/page-15.jpg",
-      "sha256": "c997cd98a5c16b69db25db06b537d7ac401660a01f74e3502a04fa7609723e62"
+      "sha256": "2a81b8f5964befe414d7b0c7b19229bdd7853ad56b74cc56df1f520773782f73"
     },
     {
       "source": "幻想を遊べる形へ_特待版.pdf",
@@ -373,7 +373,7 @@
       "source_page": 21,
       "printed_page": "p.21",
       "published": "portfolio/pages/page-21.jpg",
-      "sha256": "6e6d3c0080c1bb5569bb3bf46d149508205cabf736833255a3cf61622a40c3e6"
+      "sha256": "378fd5f38fbf83c2fda6f01a862332cea1f4793a51f88accd3592b6a988a652d"
     },
     {
       "source": "幻想を遊べる形へ_特待版.pdf",
@@ -381,7 +381,7 @@
       "source_page": 22,
       "printed_page": "p.22",
       "published": "portfolio/pages/page-22.jpg",
-      "sha256": "90c7c052db9b9c88dfc9ef1f75b65ec99b1b1206f9a8362e75d789bca00db275"
+      "sha256": "4f5de304fe4f7b1fb99342c0433bf59c4bfae76b13ebde84190b6215ada560a6"
     },
     {
       "source": "幻想を遊べる形へ_特待版.pdf",
@@ -389,7 +389,7 @@
       "source_page": 23,
       "printed_page": "p.23",
       "published": "portfolio/pages/page-23.jpg",
-      "sha256": "7ee2d8cf1a1d1a3e6e8dfa773df8d5d15479555ce086f01e42804603d0d6d49d"
+      "sha256": "3ee804e52b3f5dcd9405944d9a4144456149bc3106a592d06f5ebe3d3f0fc636"
     },
     {
       "source": "幻想を遊べる形へ_特待版.pdf",
@@ -397,7 +397,7 @@
       "source_page": 24,
       "printed_page": "p.24",
       "published": "portfolio/pages/page-24.jpg",
-      "sha256": "6a886e9f40029cd6264528359b22b70193f3e22a0dfaf08f7681b9b0d5cc9f8c"
+      "sha256": "6bc81c1d978cb77d879f44cfde77466d86412a78618543fc6b0ad9eab0f0a35f"
     },
     {
       "source": "幻想を遊べる形へ_特待版.pdf",
@@ -405,7 +405,7 @@
       "source_page": 25,
       "printed_page": "p.25",
       "published": "portfolio/pages/page-25.jpg",
-      "sha256": "78cccdeaf2db93622ecebc475120b00d52e91fe44ffba8e4a1063f7b0f7e496b"
+      "sha256": "b3eeb1cc788e09af847e46ecd8ce760d789a35873035435041e0fbf634567eab"
     },
     {
       "source": "幻想を遊べる形へ_特待版.pdf",
@@ -477,7 +477,7 @@
       "source_page": 34,
       "printed_page": "p.34",
       "published": "portfolio/pages/page-34.jpg",
-      "sha256": "f2ab3f64d58656aace72248bd301fdff5ce37ac41f6a41aa4b794165d107bb65"
+      "sha256": "76fd6790b7b429d2f12fa1fe5bd7a49e51a8868036b7ebc72849e16cddfe0098"
     },
     {
       "source": "幻想を遊べる形へ_特待版.pdf",
@@ -485,7 +485,7 @@
       "source_page": 35,
       "printed_page": "p.35",
       "published": "portfolio/pages/page-35.jpg",
-      "sha256": "a34f039b13bd5d74ea8515906d77065a19b153456317e2d326311f45fc3cc98c"
+      "sha256": "ee26ecc2db2b8273956198af939fbfb52ea6b417e8f7d74c1e3ac2cea5b4186b"
     }
   ],
   "manuscript_status": "published",
