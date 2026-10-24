@@ -1,22 +1,24 @@
-# APPENDIX
+# APPENDIX-TD
+
+特待生選考用の改訂版です（2026-10-24）。総合型選抜で提出した版は [APPENDIX](https://github.com/Dan-3401/APPENDIX) にそのまま残しています。
 
 GUAN GUOZHONG（Dan）のポートフォリオ『幻想を遊べる形へ』本体と、その補足資料です。
 
-**[ポートフォリオ本体を読む（全30ページ）](https://dan-3401.github.io/APPENDIX/portfolio/)**
+**[ポートフォリオ本体を読む（全35ページ）](https://dan-3401.github.io/APPENDIX-TD/portfolio/)**
 
-[PDF原本](https://dan-3401.github.io/APPENDIX/portfolio/portfolio.pdf)
+[PDF原本](https://dan-3401.github.io/APPENDIX-TD/portfolio/portfolio.pdf)
 
-**[補足資料をブラウザで閲覧する](https://dan-3401.github.io/APPENDIX/)**
+**[補足資料をブラウザで閲覧する](https://dan-3401.github.io/APPENDIX-TD/)**
 
 画像と企画書は、ダウンロードせずにご覧いただけます。ページ番号はPDFのページ番号に対応し、表紙を1ページ目として数えています。
 
 | ポートフォリオ | 資料 |
 | --- | --- |
-| p.5 | [神聖刻痕 Root・企画書](https://dan-3401.github.io/APPENDIX/reading/root.html)、[手書き原稿（中国語・全15ページ）](https://dan-3401.github.io/APPENDIX/manuscripts/) |
-| p.7–12 | [動画・出典](https://dan-3401.github.io/APPENDIX/#sources) |
-| p.14・18–20 | [GitHub・開発資料](https://dan-3401.github.io/APPENDIX/#development) |
-| p.15 | [PC救済計画・企画書](https://dan-3401.github.io/APPENDIX/reading/pc.html) |
-| p.23・24・25 | [受賞・活動証明](https://dan-3401.github.io/APPENDIX/#awards) |
+| p.5 | [神聖刻痕 Root・企画書](https://dan-3401.github.io/APPENDIX-TD/reading/root.html)、[手書き原稿（中国語・全15ページ）](https://dan-3401.github.io/APPENDIX-TD/manuscripts/) |
+| p.7–12 | [動画・出典](https://dan-3401.github.io/APPENDIX-TD/#sources) |
+| p.14・18–20 | [GitHub・開発資料](https://dan-3401.github.io/APPENDIX-TD/#development) |
+| p.15 | [PC救済計画・企画書](https://dan-3401.github.io/APPENDIX-TD/reading/pc.html) |
+| p.28・24・25 | [受賞・活動証明](https://dan-3401.github.io/APPENDIX-TD/#awards) |
 
 ## 掲載方針
 

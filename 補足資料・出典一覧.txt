@@ -3,7 +3,7 @@ APPENDIX｜補足資料・出典一覧
 作品本体｜幻想を遊べる形へ
 オンライン閲覧：portfolio/index.html
 PDF原本：portfolio/portfolio.pdf
-全30ページ。以下のp.はPDFのページ番号です。表紙を1ページ目として数えています。
+全35ページ。以下のp.はPDFのページ番号です。表紙を1ページ目として数えています。
 
 ポートフォリオの各ページに関連する企画書、原稿、画像資料、外部リンクをまとめています。「p.」はポートフォリオ本体のページ番号を示し、添付資料のページ番号ではありません。添付番号は元のファイル名に対応しています。
 
@@ -55,9 +55,18 @@ p.20｜Dan Mini Apps
 
 4. 受賞・活動証明
 
-p.23：添付2（attachments/2.png）、添付3（attachments/3.png）。
-p.24：添付4（attachments/4.jpg）、添付5（attachments/5.jpg）、添付6（attachments/6.jpg）、添付7（attachments/7.jpg）。
-p.25：添付8（attachments/8.jpg）、添付9（attachments/9.jpg）、添付10（attachments/10.jpg）、添付11（attachments/11.jpg）。
+p.21｜LATE RETURN（迟归）
+https://github.com/Dan-3401/LATE-RETURN
+
+p.22｜Dansh・紹介動画（80秒）
+media/dansh_80s.mp4（字幕は中国語。日本語字幕は準備中）
+
+p.23–25｜AI-TEAM・遠方
+素材の出典は index.html の「AI-TEAM・『遠方 / FARAWAY』」を参照。
+
+p.28：添付2（attachments/2.png）、添付3（attachments/3.png）。
+p.29：添付4（attachments/4.jpg）、添付5（attachments/5.jpg）、添付6（attachments/6.jpg）、添付7（attachments/7.jpg）。
+p.30：添付8（attachments/8.jpg）、添付9（attachments/9.jpg）、添付10（attachments/10.jpg）、添付11（attachments/11.jpg）。
 添付2・3は最優秀賞に関する資料、その他は賞状・任命書・活動証明です。詳細は各資料の原本をご確認ください。
 
 閲覧について
