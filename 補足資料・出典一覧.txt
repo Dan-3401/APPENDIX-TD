@@ -58,8 +58,8 @@ p.20｜Dan Mini Apps
 p.21｜LATE RETURN（迟归）
 https://github.com/Dan-3401/LATE-RETURN
 
-p.22｜Dansh
-ソースは非公開（同種の有料ツールがあるため）。
+p.22｜Dansh・紹介動画（80秒・日本語版）
+media/dansh_80s_ja.mp4（ソースは非公開）
 
 p.23–25｜AI-TEAM・遥か
 素材の出典は index.html の「AI-TEAM・『遥か / FARAWAY』」を参照。
